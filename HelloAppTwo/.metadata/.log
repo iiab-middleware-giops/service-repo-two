@@ -1,0 +1,260 @@
+!SESSION 2022-06-26 12:37:31.602 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:37:33.297
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:40:52.438 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -cleanBuild
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -cleanBuild
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:40:54.322
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:42:08.712 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -a HelloWorl.App -cleanBuild
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -a HelloWorl.App -cleanBuild
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:42:10.827
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:44:51.745 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloWorld -cleanBuild
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloWorld -cleanBuild
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:44:53.552
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:45:29.135 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:45:34.988
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:46:50.175 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:46:53.080
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:47:48.854 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:47:50.897
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:48:37.059 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp -o HelloApp\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp -o HelloApp\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:48:39.543
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:49:03.126 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp -o Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp -o Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:49:04.945
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:49:19.328 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -o Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -o Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:49:21.172
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:50:28.503 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -o HelloApp\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -o HelloApp\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:50:30.219
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:50:58.890 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -o E:\sample_rep\service-repo\source\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -o E:\sample_rep\service-repo\source\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:51:00.534
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:51:39.740 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp -o E:\sample_rep\service-repo\source\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp -o E:\sample_rep\service-repo\source\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:51:41.357
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:52:00.909 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p E:\sample_rep\service-repo\source -o E:\sample_rep\service-repo\source\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p E:\sample_rep\service-repo\source -o E:\sample_rep\service-repo\source\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:52:02.543
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:52:34.794 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p E:\\sample_rep\\service-repo\\source -o E:\\sample_rep\\service-repo\\source\\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p E:\\sample_rep\\service-repo\\source -o E:\\sample_rep\\service-repo\\source\\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:52:36.423
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:52:51.234 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -o E:\\sample_rep\\service-repo\\source\\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -o E:\\sample_rep\\service-repo\\source\\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:52:52.969
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:54:47.000 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -o E:\\sample_rep\\service-repo\\source\\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -o E:\\sample_rep\\service-repo\\source\\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:54:48.601
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:55:16.251 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -o Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -o Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:55:17.843
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:56:28.385 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp -o Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp -o Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:56:30.018
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+!SESSION 2022-06-26 12:56:41.114 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.10 - pwa6480sr6fp10-20200408_01(SR6 FP10)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20200402_443261 (JIT enabled, AOT enabled)
+OpenJ9   - 35ef566
+OMR      - 4bca4f4
+IBM      - 55acf4a
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -b Helloworld.bar -p HelloApp -o HelloApp\Main_MF.msgflow
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide -application com.ibm.etools.mft.bar.cmdline.mqsicreatebar -data E:\sample_rep\service-repo\source -b Helloworld.bar -p HelloApp -o HelloApp\Main_MF.msgflow
+
+!ENTRY org.eclipse.emf.ecore 2 0 2022-06-26 12:56:42.698
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
